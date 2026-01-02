@@ -9,9 +9,9 @@ button {
 @theme {
   --font-display: "Work Sans";
 
-  --color-Background: "2B2B2B";
-  --color-White: "FFFFFF";
-  --color-Ash: "858584";
-  --color-purple: "A259FF";
-  --color-black2: "3B3B3B"
+  --color-background: #2B2B2B;
+  --color-white: #FFFFFF;
+  --color-ash: #858584;
+  --color-purple: #A259FF;
+  --color-black2: #3B3B3B;
 }

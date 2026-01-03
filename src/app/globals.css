@@ -15,3 +15,9 @@ button {
   --color-purple: #A259FF;
   --color-black2: #3B3B3B;
 }
+
+@layer base {
+  body {
+    @apply bg-black;
+  }
+}

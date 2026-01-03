@@ -1,20 +1,5 @@
 import React from 'react'
 
-const links = [
-  {
-    link: "",
-    text: "Marketplace",
-  },
-   {
-    link: "",
-    text: "Rankings",
-  },
-  {
-    link: "",
-    text: "Connect a wallet",
-  },
-]
-
 const page = () => {
   return (
     <div>

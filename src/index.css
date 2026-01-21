@@ -13,3 +13,11 @@
   --color-Blue-Accent: #377DF7;
   --color-Red-Accent: #FF7262;
 }
+
+button {
+  @apply cursor-pointer;
+}
+
+body {
+ background-color: #2B2B2B;
+}

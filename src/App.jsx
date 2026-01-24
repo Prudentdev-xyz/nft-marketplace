@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='text-black text-3xl pl-10 py-20'>Hello world</h1>
+      <h1 className='text-white text-3xl font-bold'>Hello world</h1>
     </div>
   )
 }
